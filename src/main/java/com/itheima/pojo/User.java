@@ -5,6 +5,6 @@ package com.itheima.pojo;
  */
 public class User {
 
-    private Integer id; //用户名
-    private String name;
+    private Integer iefeafd; //用户名
+    private String nsafsdfame;
 }
